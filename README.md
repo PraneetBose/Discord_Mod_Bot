@@ -38,6 +38,7 @@ features:<br>
 ->KICK user<br>
 ->BAN user<br>
 ->Unban user<br>
+->Slash commands<br>
 ![image](https://github.com/PraneetBose/Discord_Mod_Bot/assets/94593299/d037a72d-7084-407c-bccd-09ffcc62ca62)
 ![image](https://github.com/PraneetBose/Discord_Mod_Bot/assets/94593299/f9822135-c4da-40f7-8d9d-5fa7f61c63bf)
 ![image](https://github.com/PraneetBose/Discord_Mod_Bot/assets/94593299/4b717bdf-5948-454e-9bd0-e58920663ac4)
