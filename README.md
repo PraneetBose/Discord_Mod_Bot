@@ -3,6 +3,7 @@ HI guys , Its a PLUG-n-PLAY discord moderation bot <br>
 <br>
 **NOTE**:  New version of the bot will arrive on regular basis , so make sure to check the page ....<br>
 <br>
+Bot invite Link -https://discord.com/api/oauth2/authorize?client_id=1129661217775042681&permissions=0&scope=bot%20applications.commands
 
 **How to use?**<br>
 Just install the zip file and open in any python editor<br>
