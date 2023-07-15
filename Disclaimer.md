@@ -1,0 +1,2 @@
+- this is just a tesing bot and it won;t provide any har to your device
+- don't share the bot token code with anyone , otherwise someone may misuse them.
