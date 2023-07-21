@@ -11,7 +11,7 @@ async def on_ready():
     print(f"{bot.user.name} is ready!")
 
 logging = True
-logschannel = 1129672663405695048
+logschannel = #your channel id
 
 @bot.slash_command()
 async def kick(interaction: nextcord.Interaction, user:nextcord.Member, reason: str):
